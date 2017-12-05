@@ -1,0 +1,3 @@
+# вариант запуска утилиты mrec_evaluate
+
+$ mrec_evaluate --input_format tsv --test_input_format tsv --train lfm/recs/als/alslfm.test.0 --recsdir lfm/recs/als
